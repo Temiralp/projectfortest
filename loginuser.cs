@@ -1,7 +1,6 @@
 public class LoginUser{
-a
+Console.WriteLine("test");
 ahmet
-
 test
 
 }
