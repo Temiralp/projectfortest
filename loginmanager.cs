@@ -1,0 +1,9 @@
+public c class LoginManager{
+	
+	
+	
+	
+	
+	
+	
+}
